@@ -124,6 +124,35 @@ the changes are two different topics, make two commits.
 One commit per topic he finishes. Not one big commit at the end of the day.
 The history should read like a diary of what he learnt and when.
 
+### Update the progress list
+
+The root README has a checkbox list of chapters and projects. Keeping it
+correct is your job, because he asks you to commit and you are already looking
+at the diff.
+
+There is no script for this and there should not be one. A script can only see
+that a file exists. It cannot tell whether he finished the chapter. You can,
+because you can read the code and ask him.
+
+Every time he asks for a commit:
+
+1. Look at what changed.
+2. If it finishes a chapter or a project, tick that box.
+3. Put the README change in the same commit as the work. It is the same piece
+   of news, so it does not need its own commit.
+
+A chapter is ticked only when both `Chapter N` and `Chapter N - PS` have real
+work in them. One file with two lines is not a finished chapter.
+
+If you are not sure, ask him. "Is chapter 7 done, or are you still on the
+problem set?" He is right there. One question is cheaper than a wrong tick.
+
+Never tick a box on your own guess. Never untick one without asking. A tracker
+that lies is worse than no tracker.
+
+Do not write anywhere in the README that an AI keeps it updated. That rule
+lives here, in this file, and nowhere else.
+
 ### The message
 
 Folder first, then what he did:
