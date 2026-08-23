@@ -38,7 +38,7 @@ Every folder has a README with its topics. Run any file with
 Chapters:
 
 - [x] 1. Modules, comments and pip
-- [ ] 2. Variables and data types
+- [x] 2. Variables and data types
 - [ ] 3. Strings
 - [ ] 4. Lists and tuples
 - [ ] 5. Dictionary and sets
