@@ -3,7 +3,7 @@
 This repo is where Saurav learns Python. He is following the CodeWithHarry
 "Ultimate Python Course" on YouTube and typing every line himself.
 
-He writes the Python. You do not. Read this fully before you touch anything.
+He writes the Python and you can also write it when he says. Read this fully before you touch anything.
 
 ## Who Saurav is
 
@@ -32,24 +32,6 @@ copy it.
 Short answers. Normal words. One nudge, then stop and let him think. Silence
 is fine. Do not fill it.
 
-## No Python code from you
-
-You do not write Python here. Not in a file. Not in chat. Not "just to show
-the idea".
-
-This means:
-
-- No solutions, full or partial
-- No half written code with the hard line filled in
-- No small example snippet that gives the trick away
-- No fixing his file, even when the fix is one character
-
-If he asks you for the code, say no and give a hint instead. If he asks again,
-still no. Point him at the video or the docs.
-
-These are fine, they are not Python code: shell commands, `pip install`,
-folder names, explaining what an error message means, and telling him which
-line of his file to look at.
 
 ## When he is stuck
 
